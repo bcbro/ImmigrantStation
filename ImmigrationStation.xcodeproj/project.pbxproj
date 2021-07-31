@@ -14,6 +14,7 @@
 		979199CE26B35309006717DD /* ImmigrationStation.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 979199CC26B35309006717DD /* ImmigrationStation.xcdatamodeld */; };
 		979199D026B3530A006717DD /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 979199CF26B3530A006717DD /* Assets.xcassets */; };
 		979199D326B3530A006717DD /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 979199D126B3530A006717DD /* LaunchScreen.storyboard */; };
+		979199DB26B353E4006717DD /* GradientView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 979199DA26B353E4006717DD /* GradientView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		979199CF26B3530A006717DD /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		979199D226B3530A006717DD /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		979199D426B3530A006717DD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		979199DA26B353E4006717DD /* GradientView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GradientView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 				979199C326B35309006717DD /* AppDelegate.swift */,
 				979199C526B35309006717DD /* SceneDelegate.swift */,
 				979199C726B35309006717DD /* ViewController.swift */,
+				979199DA26B353E4006717DD /* GradientView.swift */,
 				979199C926B35309006717DD /* Main.storyboard */,
 				979199CF26B3530A006717DD /* Assets.xcassets */,
 				979199D126B3530A006717DD /* LaunchScreen.storyboard */,
@@ -142,6 +145,7 @@
 			files = (
 				979199C826B35309006717DD /* ViewController.swift in Sources */,
 				979199CE26B35309006717DD /* ImmigrationStation.xcdatamodeld in Sources */,
+				979199DB26B353E4006717DD /* GradientView.swift in Sources */,
 				979199C426B35309006717DD /* AppDelegate.swift in Sources */,
 				979199C626B35309006717DD /* SceneDelegate.swift in Sources */,
 			);
